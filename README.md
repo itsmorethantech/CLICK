@@ -1,0 +1,2 @@
+# CLICK
+Idle Clicking Game
